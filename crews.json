@@ -1,0 +1,381 @@
+{
+  "Crews" : [
+     {
+       "Crew Name": "Strawhat Pirates",
+       "Crew Logo": "images/strawhatlogo.jpeg",
+       "Pirate Captain": "Strawhat Luffy",
+       "Captain Image": "images/luffy.jpeg",
+       "Crew Description": "The Straw Hat Pirates, also known as the Mugiwara Pirates, Straw Hat Crew or simply the Straw Hats, are an infamous and incredibly powerful rising pirate crew that originated from the East Blue, but have various members from different areas.",
+       "Members": [
+         {
+           "Member Name": "Roronoa Zoro",
+           "Member Image": "images/zoro.jpeg"
+            },
+         {
+           "Member Name": "Nami",
+           "Member Image": "images/nami.jpeg"
+            },
+         {
+           "Member Name": "Usopp",
+           "Member Image": "images/usopp.jpeg"
+            },
+         {
+           "Member Name": "Sanji",
+           "Member Image": "images/sanji.jpeg"
+            },
+         {
+           "Member Name": "Chopper",
+           "Member Image": "images/chopper.jpeg"
+            },
+         {
+           "Member Name": "Nico Robin",
+           "Member Image": "images/robin.jpeg"
+            },
+         {
+           "Member Name": "Franky",
+           "Member Image": "images/franky.jpeg"
+            },
+         {
+           "Member Name": "Brook",
+           "Member Image": "images/brook.jpeg"
+            },
+         {
+           "Member Name": "Jinbe",
+           "Member Image": "images/jinbei.jpeg"
+            },
+         {
+           "Member Name": "Nefertari",
+           "Member Image": "images/nefertari.jpeg"
+            }
+          ]
+     },
+    {
+     "Crew Name" : "Heart Pirates",
+     "Crew Logo" : "images/heartlogo.jpg",
+     "Pirate Captain" : "Trafalgar Law",
+     "Captain Image": "images/law.jpeg",
+     "Crew Description" : "The Heart Pirates are an infamous and notable rookie pirate crew from the North Blue and introduced on Sabaody Archipelago around the time the Straw Hat Pirates arrived there two years ago.",
+     "Members" : [
+       {
+         "Member Name": "Bepo",
+         "Member Image": "images/bepo.jpeg"
+       },
+       {
+         "Member Name": "Penguin",
+         "Member Image": "images/penguin.jpeg"
+       },
+       {
+         "Member Name": "Shachi",
+         "Member Image": "images/shachi.jpeg"
+       },
+       {
+         "Member Name": " Jean Bart",
+         "Member Image": "images/jeanbart.jpeg"
+       },
+       {
+         "Member Name": "Ikkaku",
+         "Member Image": "images/ikkaku.jpeg"
+       }
+      ]
+    },
+    {
+      "Crew Name" : "Rocks Pirates",
+      "Crew Logo" : "images/rockslogo.jpeg",
+      "Pirate Captain": "Rocks D. Cebec",
+      "Captain Image": "images/xebec.jpeg",
+      "Crew Description" : "The Rocks Pirates were a legendary and powerful  pirate crew that sailed the seas until their defeat 38 years before the current storyline.",
+      "Members" : [
+        {
+          "Member Name": "Edward Newgate",
+          "Member Image": "images/whitebeard.jpeg"
+        },
+        {
+          "Member Name": "Charlotte Linlin",
+          "Member Image": "images/linlin.jpeg"
+        },
+        {
+          "Member Name" : "Kaidou",
+          "Member Image" : "images/kaidou.jpeg"
+        },
+        {
+          "Member Name": "Shiki",
+          "Member Image": "images/shiki.jpeg"
+        },
+        {
+          "Member Name": "Captain John",
+          "Member Image": "images/captainjohn.jpeg"
+        },
+        {
+          "Member Name": "Silver Axe",
+          "Member Image": "images/unknown.jpeg"
+        }
+      ]
+    },
+    {
+      "Crew Name": "Roger Pirates",
+      "Crew Logo": "images/rogerlogo.jpeg",
+      "Pirate Captain": "Gol D. Roger",
+      "Captain Image": "images/roger.jpeg",
+      "Crew Description": "The Roger Pirates were the pirate crew of the late Pirate King, Gol D. Roger, and were the only known crew to ever reach Laugh Tale, the end of the New World in the Grand Line. They encountered Vice Admiral Garp on several occasions[3] and were strong rivals to the Whitebeard Pirates.",
+      "Members": [
+        {
+          "Member Name": "Silvers Rayleigh",
+          "Member Image": "images/rayleigh.jpeg"
+              },
+        {
+          "Member Name": "Scopper Gaban ",
+          "Member Image": "images/gaban.jpeg"
+              },
+        {
+          "Member Name": "Crocus",
+          "Member Image": "images/crocus.jpeg"
+              },
+        {
+          "Member Name": "Shanks",
+          "Member Image": "images/shanks.jpeg"
+              },
+        {
+          "Member Name": "Buggy",
+          "Member Image": "images/buggy.jpeg"
+        },
+        {
+          "Member Name": "Seagull Guns Nozdon",
+          "Member Image": "images/seagull.jpeg"
+        },
+        {
+          "Member Name": "Mr. Momora",
+          "Member Image": "images/momora.jpeg"
+        }
+      ]
+    },
+    {
+       "Crew Name": "Whitebeard Pirates",
+       "Crew Logo": "images/whitebeardlogo.jpeg",
+       "Pirate Captain": "Edward New Gate",
+       "Captain Image": "images/whitebeard.jpeg",
+       "Crew Description": "The Whitebeard Pirates were formerly one of the strongest pirate crews in the world, as their late captain, Whitebeard, was one of the only pirates to have ever been a match for the Pirate King, Gol D. Roger, in a fight.",
+       "Members": [
+         {
+           "Member Name": "Marco",
+           "Member Image": "images/marco.jpeg"
+         },
+         {
+           "Member Name": "Kozuki Oden",
+           "Member Image": "images/oden.jpeg"
+          },
+          {
+            "Member Name": "Portgas D. Ace",
+            "Member Image": "images/ace.jpeg"
+          },
+          {
+            "Member Name": "Jozu",
+            "Member Image": "images/jozu.jpeg"
+          },
+          {
+            "Member Name": "Vista",
+            "Member Image": "images/vista.jpeg"
+           },
+          {
+            "Member Name": "Blamenco",
+            "Member Image": "images/blamenco.jpeg"
+          },
+          {
+           "Member Name": "Rakuyo",
+           "Member Image": "images/rakuyo.jpeg"
+          },
+          {
+           "Member Name": "Namur",
+           "Member Image": "images/namur.jpeg"
+         },
+         {
+           "Member Name": "Haruta",
+           "Member Image": "images/haruto.jpeg"
+         },
+         {
+           "Member Name": "Fossa",
+           "Member Image": "images/fossa.jpeg"
+         },
+         {
+           "Member Name": "Izou",
+           "Member Image": "images/izou.jpeg"
+         }
+      ]
+    },
+    {
+      "Crew Name": "Beast Pirates",
+      "Crew Logo": "images/beastlogo.jpeg",
+      "Pirate Captain": "Kaidou",
+      "Captain Image": "images/kaidou.jpeg",
+      "Crew Description": "The Beasts Pirates are an extremely infamous and powerful pirate crew led by Kaidou of the Four Emperors. They are based in Wano Country, specifically headquartered on Onigashima.",
+      "Members": [
+        {
+          "Member Name": "King",
+          "Member Image": "images/king.jpeg"
+        },
+        {
+          "Member Name": "Queen",
+          "Member Image": "images/queen.jpeg"
+        },
+        {
+          "Member Name": "Jack",
+          "Member Image": "images/jack.jpeg"
+        },
+        {
+          "Member Name": "X drake",
+          "Member Image": "images/xdrake.jpeg"
+        },
+        {
+          "Member Name": "Ulti",
+          "Member Image": "images/ulti.jpeg"
+        },
+        {
+          "Member Name": "Page One",
+          "Member Image": "images/pageone.jpeg"
+        },
+        {
+          "Member Name": "Who's Who",
+          "Member Image": "images/whoswho.jpeg"
+        },
+        {
+          "Member Name": "Black Maria",
+          "Member Image": "images/maria.jpeg"
+        },
+        {
+          "Member Name": "Sasaki",
+          "Member Image": "images/sasaki.jpeg"
+        }
+      ]
+    },
+    {
+      "Crew Name": "Donquixote Pirates",
+      "Crew Logo": "images/donquixotelogo.jpeg",
+      "Pirate Captain": "Doflamingo",
+      "Captain Image": "images/doflamingo.jpeg",
+      "Crew Description": "The Donquixote Pirates, also known as the Donquixote Family (ドンキホーテファミリー, Donkihōte Famirī?), was a powerful pirate crew led by the former Warlord, Donquixote Doflamingo.[5] They used to rule the kingdom of Dressrosa as the governing body, with their captain as the king.",
+      "Members": [
+        {
+          "Member Name": "Trebol",
+          "Member Image": "images/trebol.jpeg"
+        },
+        {
+          "Member Name": "Diamante",
+          "Member Image": "images/diamante.jpeg"
+        },
+        {
+          "Member Name": "Pica",
+          "Member Image": "images/pica.jpeg"
+        },
+        {
+          "Member Name": "Corazon (Vergo)",
+          "Member Image": "images/vergo.jpeg"
+        },
+        {
+          "Member Name": "Bellamy",
+          "Member Image": "images/bellamy.jpeg"
+        }
+      ]
+    },
+    {
+      "Crew Name": "Red Hair Pirates",
+      "Crew Logo":"images/redhairlogo.jpeg",
+      "Pirate Captain": "Redhair Shanks",
+      "Captain Image": "images/shanks.jpeg",
+      "Crew Description": "The Red Hair Pirates are an infamous and powerful pirate crew ruling in the New World, captained by their chief Red-Haired Shanks, one of the Four Emperors.",
+      "Members": [
+        {
+          "Member Name": "Benn Beckman",
+          "Member Image": "images/beckman.png"
+        },
+        {
+          "Member Name": "Lucky Roux",
+          "Member Image": "images/roux.png"
+        },
+        {
+          "Member Name": "Yassop",
+          "Member Image": "images/yassop.png"
+        },
+        {
+          "Member Name": "Rockstar",
+          "Member Image": "images/rockstar.png"
+        },
+        {
+          "Member Name": "????",
+          "Member Image": "images/unknownredhair1.png"
+        },
+        {
+          "Member Name": "????",
+          "Member Image": "images/unknownredhair2.png"
+        },
+        {
+          "Member Name": "????",
+          "Member Image": "images/unknownredhair3.png"
+        },
+        {
+          "Member Name": "????",
+          "Member Image": "images/unknownredhair4.png"
+        },
+        {
+          "Member Name": "????",
+          "Member Image": "images/unknownredhair5.png"
+        },
+        {
+          "Member Name": "????",
+          "Member Image": "images/unknowredhair6.png"
+        }
+      ]
+    },
+    {
+      "Crew Name": "Big Mom Pirates",
+      "Crew Logo": "images/bigmomlogo.jpeg",
+      "Pirate Captain": "Charlotte Linlin",
+      "Captain Image": "images/linlin.jpeg",
+      "Crew Description": "The Big Mom Pirates[1] are an extremely infamous and powerful pirate crew led by the Emperor Charlotte Linlin, better known as 'Big Mom', and they are in control of the powerful nation of Totto Land, with their captain ruling it as its queen and their base of operations being Whole Cake Island, the country's main island.",
+      "Members": [
+        {
+          "Member Name": "Charlotte Katakuri",
+          "Member Image": "images/katakuri.png"
+        },
+        {
+          "Member Name": "Charlotte Smoothie",
+          "Member Image": "images/smoothie.png"
+        },
+        {
+          "Member Name": "Charlotte Cracker",
+          "Member Image": "images/cracker.png"
+        },
+        {
+          "Member Name": "Perospero",
+          "Member Image": "images/perospero.png"
+        },
+        {
+          "Member Name": "Compote",
+          "Member Image": "images/compote.png"
+        },
+        {
+          "Member Name": "Daifuku",
+          "Member Image": "images/daifuku.png"
+        },
+        {
+          "Member Name": "Oven",
+          "Member Image": "images/oven.png"
+        },
+        {
+          "Member Name": "Amande",
+          "Member Image": "images/amande.png"
+        },
+        {
+          "Member Name": "Effilee",
+          "Member Image": "images/effil.png"
+        },
+        {
+          "Member Name": "Opera",
+          "Member Image": "images/opera.png"
+        },
+        {
+          "Member Name": "Cadenza",
+          "Member Image": "images/cadenza.png"
+        }
+       ]
+    }
+   ]
+}
